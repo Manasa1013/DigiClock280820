@@ -1,0 +1,40 @@
+.container{
+    border-radius: 20px;
+    background-blend-mode: color-burn ;
+    background : rgba(55, 187, 132, 0.582);
+    padding: 15px;
+    width: 150px;
+    height: 150px;
+}
+    #s3{
+        border-radius: 20px;
+        background-blend-mode: color-burn ;
+        margin-left: 10px;
+        padding: 15px;
+        width: 50px;
+        height: 150px;
+    }
+    h1{
+        margin-left: 10px;
+        padding: 15px;
+        
+    }
+body{
+    background-color: #323bc073;    
+       
+  }
+  #root{
+    font-size:90px;
+    width:700px;
+    margin-left : 400px;
+    margin-right : 40px;
+    margin-top: 30px;
+
+    text-shadow: 4px 0px 3px rgba(60, 180, 132, 0.58);
+    text-justify: auto;
+    text-align : center;
+    border-block-color: whitesmoke  ;
+    border : 2px blueviolet ;
+    border-radius: 20px;
+    display: -webkit-inline-flexbox; 
+  }
